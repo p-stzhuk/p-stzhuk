@@ -1,12 +1,12 @@
 # Hey, I'm Petro 👋
 
-Software developer interested in Rust, systems programming, and open source. I like learning by building things and contributing to projects I use.
+Aspiring backend developer focused on **Python**. I enjoy building practical software, learning how systems work, and contributing to open source.
 
-### Currently working on
+### Projects & contributions
 
-- **[Veyl](https://github.com/veyl-rust/veyl)** — building an open-source project in Rust. [Website](https://veyl-website.pages.dev/)
+- **[Veyl](https://github.com/veyl-rust/veyl)** — my hobby project, exploring game development with Rust. [Website](https://veyl-website.pages.dev/)
 - **[Horizon](https://github.com/horizon-rust/horizon)** — contributing fixes for existing issues.
 
 ### Tech
 
-`Rust` · `JavaScript` · `TypeScript` · `React` · `HTML/CSS` · `Git`
+`Python` · `Rust` · `JavaScript` · `TypeScript` · `React` · `Git`
