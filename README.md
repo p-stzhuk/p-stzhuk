@@ -2,9 +2,13 @@
 
 I'm learning **Python** with the goal of becoming a backend developer. I enjoy figuring out how software works, building side projects, and contributing to open source.
 
-### Projects & contributions
+### Hobby projects
 
+- **[PulseUp](https://github.com/p-stzhuk/pulseup)** — an open-source uptime monitor for websites and APIs, currently in early development.
 - **[Veyl](https://github.com/veyl-rust/veyl)** — my Rust hobby project. [Website](https://veyl-website.pages.dev/)
+
+### Open-source contributions
+
 - **[Horizon](https://github.com/horizon-rust/horizon)** — contributing fixes for existing issues.
 
 ### Technologies
