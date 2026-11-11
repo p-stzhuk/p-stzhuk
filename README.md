@@ -4,9 +4,9 @@ I'm learning **Python** with the goal of becoming a backend developer. I enjoy f
 
 ### Hobby projects
 
-- **[PulseUp](https://github.com/p-stzhuk/pulseup)** — an open-source uptime monitor for websites and APIs, currently in early development.
-- **[Veyl](https://github.com/veyl-rust/veyl)** — my Rust hobby project. [Website](https://veyl-website.pages.dev/)
 - **[MacSweep](https://github.com/p-stzhuk/MacSweep)** — an open-source macOS app uninstaller and cleanup utility. [Website](https://macsweep.pages.dev/)
+- **[Veyl](https://github.com/veyl-rust/veyl)** — my Rust hobby project. [Website](https://veyl-website.pages.dev/)
+- **[PulseUp](https://github.com/p-stzhuk/pulseup)** — an open-source uptime monitor for websites and APIs, currently in early development.
 
 ### Open-source contributions
 
