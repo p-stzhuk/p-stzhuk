@@ -3,10 +3,7 @@
 I'm learning **Python** with the goal of becoming a backend developer. I enjoy figuring out how software works, building side projects, and contributing to open source.
 
 ### Hobby projects
-
-- **[MacSweep](https://github.com/p-stzhuk/MacSweep)** — an open-source macOS app uninstaller and cleanup utility. [Website](https://macsweep.pages.dev/)
-- **[Veyl](https://github.com/veyl-rust/veyl)** — my Rust hobby project. [Website](https://veyl-website.pages.dev/)
-- **[PulseUp](https://github.com/p-stzhuk/pulseup)** — an open-source uptime monitor for websites and APIs, currently in early development.
+- hmmmm...
 
 ### Open-source contributions
 
